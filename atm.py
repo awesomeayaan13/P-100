@@ -11,5 +11,6 @@ class Atm():
         return self.cardNumber
 
         
-
-
+BrokePerson=Atm(913,5888)
+BrokePerson.withdrawMoney()
+BrokePerson.BankBalance(913,5888)
